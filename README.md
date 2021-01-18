@@ -3,19 +3,13 @@ Py Me Up, Charlie
 
 ## PyBank
 
-* Create a Python script for analyzing the financial records of a company using a set of financial data called [budget_data.csv]. The dataset is composed of two columns: `Date` and `Profit/Losses`.
-
-* Analyze the records to calculate each of the following:
-
-  * The total number of months included in the dataset
-
-  * The net total amount of "Profit/Losses" over the entire period
-
-  * Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
-
-  * The greatest increase in profits (date and amount) over the entire period
-
-  * The greatest decrease in losses (date and amount) over the entire period
+#Financial Analysis
+#----------------------------
+Months: 86
+Total Profits: $38382578.00
+Average Change: $-2315.12
+Greatest Increase in Profits: Feb-2012 ($1926159.00)
+Greatest Decrease in Profits: Sep-2013 ($-2196167.00)
 
 
 ## PyPoll
