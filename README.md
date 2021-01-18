@@ -3,8 +3,8 @@ Py Me Up, Charlie
 
 ## PyBank
 
-#Financial Analysis
-#----------------------------
+Financial Analysis
+----------------------------
 Months: 86
 Total Profits: $38382578.00
 Average Change: $-2315.12
